@@ -1,4 +1,5 @@
 📊 Banking Industry Research Report (2024–25)
+
 🏦 Overview
 
 This repository contains a detailed research report on the Indian Banking Industry, analyzing its structure, financial performance, regulatory framework, and technological transformation. The study highlights the key players, growth trends, and challenges shaping India’s banking sector.
